@@ -1,0 +1,30 @@
+# Metrics to judge performance:
+
+- Time taken to find a solution: This is the amount of time it takes for an algorithm to find a solution from the starting point to the destination point in the maze.
+
+- Number of nodes expanded: This is the number of nodes visited or expanded by the algorithm while searching for a solution. A node represents a point in the maze that the algorithm has visited.
+
+- Memory consumption: This is the amount of memory used by the algorithm to store the maze and the search tree or queue.
+
+- Optimality of the solution found: This is the quality of the solution found by the algorithm, such as the length of the path or the number of steps taken.
+
+- Scalability: This is the ability of the algorithm to handle mazes of increasing size or complexity.
+
+- *Robustness: This is the ability of the algorithm to handle different types of mazes, such as mazes with multiple paths or dead-ends.*
+
+We will evaluate the algorithms based on various criteria, such as the 
+time taken to find a solution, 
+the memory consumption, 
+the number of nodes expanded(for search algorithms only), 
+number of steps in path
+the optimality of the solution and 
+the scalability of the algorithm. 
+
+
+
+# MAZE SIZES:
+- 10X10 () ()
+- 15X15 () ()
+- 15X20 () ()
+- 20X20 () ()
+- 25X25 () ()

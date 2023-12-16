@@ -1,0 +1,44 @@
+value_iteration:
+  - refactor code. @done
+
+starter1: 
+  - Should have all search algorithms
+    - BFS
+    - DFS
+    - A Star
+
+starter2:
+  - Should have all MDP algorithms
+    - Value Iteration
+    - Policy Iteration
+
+starter3:
+  - Should have all the algorithms
+    - Search Algorithms:
+      - BFS
+      - DFS
+      - A Star
+    - MDP Algorithms:
+      - Value Iteration
+      - Policy Iteration
+
+Metrics:
+  - Time Consumption
+  - Memory Consumption
+  - Nodes Expanded
+  - Length of Path
+
+Submission:
+  - Zip File:
+    - readme.txt:
+      - has all commands which is used to run all the algorithms.
+    - Performance Analysis.pdf:
+      - Compare the performance of all 5 algorithms from points 2 and 3 to each other in a range of mazes of at least 3 different sizes using a range of at least 2 suitable metrics. Analyse and 
+        discuss 
+        - the comparison between different search algorithms to each other,  - BFS,DFS,A Star
+        - comparison between different MDP algorithms to each other,  - value_iteration,policy_iteration
+        - comparison between search and MDP algorithms.  - All of the above together
+      - including visual comparison/graphs/tables/screenshots as required
+      -  code for the functions containing implementations of the 5 algorithms need to be added as the appendices 1-5 to the document
+    - Video:
+      - running all of the starter and calculator codes explaining them.
